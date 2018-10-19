@@ -1,0 +1,29 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: VIsion
+layout_spectrum: 0.547921673161909
+typography_spectrum: 0.013780803652480245
+color:
+  brandStrength: 0.5804705286864191
+  lightness: 0.6902905334718525
+  saturation: 0.8558040065690875
+  rhythmicContrast: 0.06889710924588144
+  brandColors:
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
+content: []
+title: VIsion
+description: OwL's  Kindergarten
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/547fdc29-1319-4d46-bbd4-4d7221a911a6.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5094f771-8fd4-46f2-973a-238fe98fedd2.jpg
