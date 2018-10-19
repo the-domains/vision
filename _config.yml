@@ -19,7 +19,32 @@ color:
     - '#CCCC52'
     - '#8FB359'
     - '#192B33'
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e8be6bc-9af0-48ae-8a40-f2da5d4190dc.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e8be6bc-9af0-48ae-8a40-f2da5d4190dc.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: VIsion
 description: OwL's  Kindergarten
 github: true
