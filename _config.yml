@@ -1,3 +1,16 @@
+layout_spectrum: 0.34885006438682575
+typography_spectrum: 0.11263730631126921
+color:
+  brandStrength: 0.4660649711781615
+  lightness: 0.38408272174565067
+  saturation: 0.8575454209553133
+  rhythmicContrast: 0.6093178976520822
+  brandColors:
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -6,19 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: VIsion
-layout_spectrum: 0.547921673161909
-typography_spectrum: 0.013780803652480245
-color:
-  brandStrength: 0.5804705286864191
-  lightness: 0.6902905334718525
-  saturation: 0.8558040065690875
-  rhythmicContrast: 0.06889710924588144
-  brandColors:
-    - '#FF8000'
-    - '#FFD933'
-    - '#CCCC52'
-    - '#8FB359'
-    - '#192B33'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
